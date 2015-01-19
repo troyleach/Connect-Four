@@ -6,7 +6,7 @@ THINGS I WANT TO ADD -
   have the players roll for random start. DONE
 
 
-# OMG THIS WORKS......HOWEVER IT RETURNS NIL, NOT SURE IF THIS WILL FUCK THINGS UP.!
+# OMG THIS WORKS......HOWEVER IT RETURNS NIL, NOT SURE IF THIS WILL MESS THINGS UP.!
 # def place_game_piece
 #   num = toy.length - 1
 #   while num >= 0
